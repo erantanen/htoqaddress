@@ -1,0 +1,20 @@
+
+
+
+// htoqaddess -- hex to quad address
+
+
+
+// initial experiment on moving hex addressing into a quad address
+
+// example:
+
+    0a00020f  -> 10.0.2.15
+
+
+// Ed Rantanen
+
+// 07 oct 2012
+
+
+
